@@ -1,0 +1,9 @@
+# FerociousStrike's Gemlog
+
+## 10.30.2021 Being Oncall
+
+I'm pretty sure that no one likes being oncall. Well, perhaps it's not so bad if you really need the bonus or overtime, or if you are in a position fortunate enough to not receive much in the way of pages. I am not in such a position. I work in an internal IT help desk position for a fairly large US based retailer with over 500 locations. During a one week oncall rotation, I can expected to be woken up almost every night. Sometimes 3-4 times a night. I think my record is 6 calls in one night. A night which I did not sleep at all and ended up having to call in. I wasn't able to sleep that day either since I kept receiving pages during the day too. :/
+
+Well, yesterday just ended my latest oncall rotation and I finally got to get a full nights sleep without worrying about being startled awaken in the middle of the night for what would likely have been a false positive. I typically receive only a handful of legitimate high priority issues in a week, which is a really frustrating aspect of it. Even when I don't receive any calls, my quality of sleep tends to be really poor and I keep waking up every once in a while afraid that I may have missed a page. I managed to come down with a bit of a stomach bug this past Wednesday and I'm pretty sure that the lack of sleep and stress of being oncall had a lot to do with it. My main methods for self-care involve getting enough sleep and exercise. I definitely was not getting enough of either this week.
+
+Again, I don't think I am the only one that feels this way about being oncall, but I haven't heard too many complaints from my coworkers. I do have a history of anxiety, but I suspect that others are likely suffering in silence here. In any case, I am incredibly happy to be free from the obligations of being oncall this weekend and I'm going to try taking a bit easy to recover from the experience.
