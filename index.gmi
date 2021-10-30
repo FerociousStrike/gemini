@@ -11,4 +11,4 @@
 # FerociousStrike on Gemini
 
 ## My Gemlog
-=> 1635594539.gmi 2021-10-30 - Being Oncall
+=> 10.30.2021.gmi 2021-10-30 - Being Oncall
